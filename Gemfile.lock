@@ -224,6 +224,7 @@ DEPENDENCIES
   debug
   importmap-rails
   jbuilder
+  nokogiri (~> 1.9)
   puma (~> 5.0)
   rails (~> 7.0.3)
   selenium-webdriver
